@@ -1,1 +1,54 @@
-# SJT-ORGANIZATION
+<!DOCTYPE html>
+<html>
+    <head>
+<title>WEBPAGE DESIGN</title>
+<link rel="stylesheet" href="style.css"
+    </head>
+    <body>
+        <div class="main">
+            <div class="navbar">
+                <div class="icon">
+                    <h2 class="logo">SJT ORGANIZATION</h2>
+    </div>
+
+    <div class="menu">
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">SERVICE</a></li>
+            <li><a href="#">DESIGN</a></li>
+            <li><a href="#">CONTACT</a></li>
+        </ul>
+    </div>
+
+    <div class="search">
+        <input class="srch" type="search" name="" placeholder="type to text">
+        <a href="#"><button class="btn">SEARCH</button></a>
+    </div>
+
+     </div>
+     <dv class="content">
+        <h1><br><span></span>WEB DESIGN & DEVELOPMENT</span><br>COURSE</h1>
+        <p class="par">SJT organization is a company concerns with different things like creativity,knowledge <br> and also skills in such aspects within world wide countries</p>
+     
+        <button class="cn"><a href="#">JOIN US</a></button>
+  
+        <div class="form ">
+            <h2>LOGIN HERE</h2>
+            <input type="email" name="email" placeholder="enter email here">
+            <input type="password" placeholder="enter password here">
+            <button class="btn"><a href="#">LOGIN</a></button>
+
+            <p class="link">I DONT HAVE AN ACCOUNT</p><br>
+              <p><a href="#">SIGN UP </a>HERE</a></p>
+            <p class="liw">LOG IN WITH</p>
+
+    </dv>
+
+        </div>
+    </div>
+</div>
+</div>
+    </body>
+    <script src=""></script>
+</html>
