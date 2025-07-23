@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-<title>WEBPAGE DESIGN</title>
+<title>MY WEBPAGE</title>
 <link rel="stylesheet" href="style.css"
     </head>
     <body>
