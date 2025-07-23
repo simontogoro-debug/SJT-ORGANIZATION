@@ -2,7 +2,8 @@
 <html>
     <head>
 <title>MY WEBPAGE</title>
-<link rel="stylesheet" href="style.css"
+<link rel="stylesheet" href="style.css">
+        
     </head>
     <body>
         <div class="main">
